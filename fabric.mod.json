@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "bombamod1_21_4",
+  "version": "1.0.0",
+  "name": "BombaMod1.21.4",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/bombamod1_21_4/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.example.BombaMod.bombamod1_21_4.client.BombaModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}

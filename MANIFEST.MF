@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Fabric-Jar-Type: classes
+Fabric-Loom-Client-Only-Entries: bombamod1_21_4.client.mixins.json;org/e
+ xample/BombaMod/bombamod1_21_4/client/BombaModClient.class
+Fabric-Loom-Mixin-Remap-Type: mixin
+Fabric-Loom-Split-Environment: true
+Fabric-Gradle-Version: 9.6.1
+Fabric-Loom-Version: 1.9.2
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.21.4
+Fabric-Tiny-Remapper-Version: 0.10.4
+Fabric-Loader-Version: 0.19.3
+Fabric-Mixin-Version: 0.17.3+mixin.0.8.7
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+
